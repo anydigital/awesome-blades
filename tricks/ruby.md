@@ -5,7 +5,11 @@ type: tricks
 canonical: https://any.digital/tricks/ruby/
 ---
 
-## Per-folder Ruby setup
+## Install Ruby projects locally on macOS w/o breaking system's Ruby
+
+### `rbenv`
+
+Assuming you already have Homebrew:
 
 ```sh
 brew install rbenv
@@ -17,9 +21,18 @@ rbenv install 3.2.10
 gem install bundler
 ```
 
-### Install and build Slate Docs locally on macOS w/o breaking system's Ruby
+### GitHub Pages' Jekyll locally
 
-Assuming you already have Homebrew, Node and per-folder Ruby installed:
+Assuming you already have `rbenv`:
+
+1. Follow https://github.com/github/pages-gem#usage
+2. ```sh
+   bundle exec jekyll serve
+   ```
+
+### Slate Docs locally
+
+Assuming you already have `rbenv`:
 
 ```sh
 bundle install
