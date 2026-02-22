@@ -25,8 +25,13 @@ gem install bundler
 
 Assuming you already have `rbenv`:
 
-1. Follow https://github.com/github/pages-gem#usage
+1. ```rb {data-caption=Gemfile}
+   source "https://rubygems.org"
+
+   gem "github-pages", group: :jekyll_plugins
+   ```
 2. ```sh
+   bundle install
    bundle exec jekyll serve
    ```
 
