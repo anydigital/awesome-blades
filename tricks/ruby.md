@@ -14,10 +14,8 @@ Assuming you already have Homebrew:
 ```sh
 brew install rbenv
 
-# First, list available Ruby versions:
+# Then list available Ruby versions, and install one:
 rbenv install -l
-
-# Then install a desired version:
 rbenv install 3.2.10
 
 # Finally, set it for current project/folder:
