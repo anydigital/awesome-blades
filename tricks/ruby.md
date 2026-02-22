@@ -20,7 +20,7 @@ rbenv install -l
 # Then install a desired version:
 rbenv install 3.2.10
 
-# Finally, set for current project/folder:
+# Finally, set it for current project/folder:
 rbenv local 3.2.10
 ```
 
