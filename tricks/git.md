@@ -8,6 +8,14 @@ includes:
   - path: https://raw.githubusercontent.com/anydigital/git-commit-email-privacy/refs/heads/main/README.md
 ---
 
+## GitHub Tricks
+
+### Shame on GitHub
+
+https://httpie.io/blog/stardust
+
+---
+
 ### Search the whole git history
 
 ```sh
