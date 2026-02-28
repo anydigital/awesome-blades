@@ -12,7 +12,9 @@ includes:
     path: https://raw.githubusercontent.com/anydigital/breakout-css/refs/heads/main/README.md
     # path: ../node_modules/@anydigital/breakout-css/README.md
     section: css
-  - path: https://raw.githubusercontent.com/anydigital/bricks/refs/heads/main/src/breakout.css
+  - #
+    path: https://raw.githubusercontent.com/anydigital/bricks/refs/heads/main/src/breakout.css
+    # path: ../node_modules/@anydigital/bricks/src/breakout.css
     section: responsive-table-without-wrapper
   - path: https://raw.githubusercontent.com/anydigital/float-label-css/refs/heads/master/README.md
 ---
@@ -22,4 +24,4 @@ includes:
 - https://github.com/anydigital/float-label-css
 - https://buildexcellentwebsit.es/
 - https://blog.jim-nielsen.com/2025/lots-of-little-html-pages/
-- 
+-
