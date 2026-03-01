@@ -1,19 +1,10 @@
 ---
-title: Eleventy Tricks
+title: Eleventy & Nunjucks Tricks
 description: A curated collection of Eleventy (11ty) tricks, starters, command line tips, configuration snippets, and templating techniques.
 site: tricks
 type: tricks
-canonical: https://any.digital/tricks/11ty/
+canonical: https://any.digital/tricks/11ty-njk/
 includes:
-  - text: |-
-      ## Getting Started <small>Tricks</small>
-
-      - Curated list of starters: https://11tybundle.dev/starters/
-      - Community starters: https://www.11ty.dev/docs/starter/
-      - Sveltia CMS starters: https://sveltiacms.app/en/docs/frameworks/eleventy#starter-templates
-      - Custom start: https://www.11ty.dev/docs/
-
-      Not sure where to begin? Start with a minimal template:
   - path: tricks/_11ty-starters.md
   - text: |-
       ## Command Line <small>Tricks</small>
@@ -46,12 +37,15 @@ includes:
     path: https://raw.githubusercontent.com/anydigital/eleventy-bricks/refs/heads/main/README.md
     # path: ../node_modules/@anydigital/eleventy-bricks/README.md
     section: data&processors-h3
-  - text: |-
-      ## Templating <small>Tricks</small>
-
-      ### [Nunjucks & Liquid Tricks<i>&nbsp;→</i>](/tricks/njk-liquid/)
-
-      https://any.digital/tricks/njk-liquid/
+  - path: tricks/_njk.md
+  - #
+    path: https://raw.githubusercontent.com/anydigital/bricks/refs/heads/main/README.md
+    # path: ../node_modules/@anydigital/bricks/README.md
+    section: njk-liquid-h2
+  - #
+    path: https://raw.githubusercontent.com/anydigital/eleventy-bricks/refs/heads/main/README.md
+    # path: ../node_modules/@anydigital/eleventy-bricks/README.md
+    section: filters-h2
   - text: |-
       ## Awesome 11ty <small>List ![](https://awesome.re/badge.svg)</small>
 
@@ -69,10 +63,20 @@ includes:
 
       ---
 
+      <small>This page follows a similar structure to https://www.11ty.dev/docs/projects/</small>
+
       Featured in:
       - https://11tybundle.dev/blog/11ty-bundle-83/
+      - https://11tybundle.dev/categories/nunjucks-macros/
       - https://11tybundle.dev/categories/getting-started/
-revised: 2026-02-11
+revised: 2026-02-28
 ---
 
-<small>This page follows a similar structure to https://www.11ty.dev/docs/projects/</small>
+## Getting Started <small>Tricks</small>
+
+- Curated list of starters: https://11tybundle.dev/starters/
+- Community starters: https://www.11ty.dev/docs/starter/
+- Sveltia CMS starters: https://sveltiacms.app/en/docs/frameworks/eleventy#starter-templates
+- Custom start: https://www.11ty.dev/docs/
+
+Not sure where to begin? Start with a minimal template:
