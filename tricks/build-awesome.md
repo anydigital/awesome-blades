@@ -47,7 +47,7 @@ includes:
     # path: ../node_modules/@anydigital/eleventy-bricks/README.md
     section: filters-h2
   - text: |-
-      ## Awesome 11ty <small>List ![](https://awesome.re/badge.svg)</small>
+      ## [Awesome Build Awesome](https://github.com/anydigital/awesome-build-awesome) <sub>![](https://awesome.re/badge.svg)</sub> {#awesome}
 
       - https://11tybundle.dev/
       - https://github.com/anydigital/bladeswitch 2-in-1 starter
@@ -60,9 +60,9 @@ includes:
       - https://any.digital/tricks/njk-liquid/ templating
       - https://eleventy-explorer.netlify.app/ for more
       - https://any.digital/insights/ssg/
-
-      ---
-
+  - path: https://raw.githubusercontent.com/anydigital/awesome-build-awesome/refs/heads/master/README.md
+    section: content
+  - text: |-
       <small>This page follows a similar structure to https://www.11ty.dev/docs/projects/</small>
 
       Featured in:
