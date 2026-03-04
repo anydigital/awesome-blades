@@ -3,7 +3,7 @@ title: Build Awesome Tricks <sub>for Eleventy (11ty) & Nunjucks</sub>
 description: A curated collection of Eleventy (11ty) tricks, starters, command line tips, configuration snippets, and templating techniques.
 site: tricks
 type: tricks
-canonical: https://any.digital/tricks/11ty-njk/
+canonical: https://any.digital/tricks/build-awesome/
 includes:
   - path: tricks/_11ty-starters.md
   - text: |-
