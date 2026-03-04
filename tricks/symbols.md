@@ -5,6 +5,8 @@ type: tricks
 canonical: https://any.digital/tricks/symbols/
 ---
 
+- [Box Drawing characters with examples](https://gist.github.com/flaviut/0db1aec4cadf2ef06455)
+
 From https://bearblog.dev/ :
 
 ʕ•ᴥ•ʔ
