@@ -66,5 +66,5 @@ includes:
       - https://11tybundle.dev/categories/nunjucks-macros/
       - https://11tybundle.dev/categories/getting-started/
       - https://github.com/anydigital/awesome-build-awesome
-revised: draft
+revised: 2026-02-28
 ---
