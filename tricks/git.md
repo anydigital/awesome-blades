@@ -26,6 +26,13 @@ git grep "SEARCH_FOR" $(git rev-list --all)
 git restore PATH_TO_FILE
 ```
 
+### Discard all changes inside a folder
+
+```sh
+git restore "FOLDER/*"
+git clean -fd FOLDER/
+```
+
 ### Restore a single file to its state from N commits ago
 
 ```sh
