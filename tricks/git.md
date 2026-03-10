@@ -29,8 +29,11 @@ git restore PATH_TO_FILE
 ### Discard all changes inside a folder
 
 ```sh
-git restore "FOLDER/*" # quotes matter!
 git clean -fd FOLDER/
+git restore "FOLDER/*" # quotes matter!
+
+# in 1 command:
+cd FOLDER && git clean -fd ./ && git restore "./*"
 ```
 
 ### Restore a single file to its state from N commits ago
