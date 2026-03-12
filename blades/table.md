@@ -1,5 +1,5 @@
 ---
-title: Table
+title: Table <small>blades</small>
 includes:
   - #
     # path: ../node_modules/@anydigital/blades/src/_tricks.css
