@@ -9,12 +9,11 @@ formerly "Tricks for Geeks" wiki
 </hgroup>
 <!--section:gh-only-->
 
-- https://github.com/anydigital/blades all-in
+- https://blades.ninja/ all-in
 
 <!--section:index-->
 
 - https://blades.ninja/antigravity/ tricks
-- https://blades.ninja/build-awesome-11ty/ tricks
 - https://blades.ninja/git/ tricks
 - https://blades.ninja/jsdelivr/ tricks
 - https://blades.ninja/liquid/ tricks
