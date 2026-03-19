@@ -5,10 +5,19 @@ brand: <big><a href="/" class="dark-auto"><i>🥷&nbsp;</i>Blades</a></big>
 header_links:
   - url: https://github.com/anydigital/blades
     title: <i class="fa-brands fa-github"></i>
-_footer_links:
-  - url: https://github.com/anydigital/blades
-    title: '<img style="vertical-align: -0.125em" src="https://img.shields.io/github/stars/anydigital/blades?label=🥷&logo=%20">'
   - url: https://github.com/anydigital/eleventy-blades
-    title: '<img style="vertical-align: -0.125em" src="https://img.shields.io/github/stars/anydigital/eleventy-blades?label=11ty&logo=%20">'
-  - url: https://github.com/anydigital/awesome-blades
-    title: '<img style="vertical-align: -0.125em" src="https://img.shields.io/github/stars/anydigital/awesome-blades?label=🕶️&logo=%20">'
+    title: <i class="fa-brands fa-eleventy"></i>
+#TODO tricks
+footer_content: |
+  &nbsp;&nbsp;
+
+  All Blades projects:&nbsp;&nbsp;
+  [![](https://img.shields.io/github/stars/anydigital/blades?label=🥷&logo=%20)](               https://github.com/anydigital/blades)
+  <span class="faded">|</span>
+  [![](https://img.shields.io/github/stars/anydigital/eleventy-blades?label=11ty&logo=%20)](    https://github.com/anydigital/eleventy-blades)
+  <span class="faded">|</span>
+  [![](https://img.shields.io/github/stars/anydigital/build-awesome-starter?label=🎈&logo=%20)](https://github.com/anydigital/build-awesome-starter)
+  <span class="faded">|</span>
+  [![](https://img.shields.io/github/stars/anydigital/bladeswitch?logo=jekyll&label=)](         https://github.com/anydigital/bladeswitch)
+  <span class="faded">|</span>
+  [![](https://img.shields.io/github/stars/anydigital/awesome-blades?logo=awesomelists&label=)](https://github.com/anydigital/awesome-blades)
