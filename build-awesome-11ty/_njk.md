@@ -3,8 +3,6 @@
 - https://mozilla.github.io/nunjucks/templating.html
 - https://mozilla.github.io/nunjucks/templating.html#builtin-filters
 
-### [🥷 Filters →](/build-awesome-11ty/filters/){role=button .outline}
-
 ### Syntax highlighting <sub>in [VS Code~editors](/tricks/antigravity/)</sub> {#njk-vscode}
 
 - 🧩 Install https://github.com/edheltzel/better-nunjucks-for-visual-studio-code
