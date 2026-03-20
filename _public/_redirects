@@ -1,5 +1,7 @@
-/html/links/    /html/#links
-/html/gtm/      /html/#gtm
+/html/links/        /html/#links 301
+/html/gtm/          /html/#gtm 301
 
-/css/           /#css 301
-/table/         /css/table/ 301
+/css/typography/    /css/ 301
+/css/code/          /css/#code 301
+/css/table/         /css/responsive-table/ 301
+/table/             /css/responsive-table/ 301
