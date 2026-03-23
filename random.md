@@ -1,13 +1,11 @@
 ---
-title: Ruby Tricks
-site: tricks
-type: tricks
-canonical: https://any.digital/tricks/ruby/
+title: Random <small>tricks</small>
+canonical: https://blades.ninja/random/
 ---
 
-## Install Ruby projects locally on macOS w/o breaking system's Ruby
+## Run Ruby projects locally on macOS <sub>without breaking system's Ruby</sub>
 
-### Install `rbenv`
+### Install `rbenv` {#rbenv}
 
 Assuming you already have Homebrew:
 
@@ -24,19 +22,20 @@ rbenv local 3.2.10
 
 Finally, add it to your shell's configuration file so it executes automatically:
 
-``` {data-caption=~/.zshrc}
+```{data-caption=~/.zshrc}
 eval "$(rbenv init -)"
 ```
 
 ### GitHub Pages' Jekyll locally
 
-Assuming you already have `rbenv`:
+Assuming you already [installed `rbenv`](#rbenv):
 
 1. ```rb {data-caption=Gemfile}
    source "https://rubygems.org"
 
    gem "github-pages", group: :jekyll_plugins
    ```
+
 2. ```sh
    bundle install
    bundle exec jekyll serve
@@ -46,7 +45,7 @@ More info: https://github.com/github/pages-gem#usage, https://jekyllrb.com/docs/
 
 ### Slate Docs locally
 
-Assuming you already have `rbenv`:
+Assuming you already [installed `rbenv`](#rbenv):
 
 ```sh
 bundle install
