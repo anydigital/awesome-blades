@@ -9,11 +9,13 @@ includes:
       ## [🥷 Processors →](/build-awesome-11ty/processors/){role=button .outline}
       ## [🥷 Power tools →](/build-awesome-11ty/tools/){role=button .outline}
       ---
-  - path: build-awesome-11ty/_starters.md
-  - path: build-awesome-11ty/_njk.md
   - text: |-
-      ## ![](https://awesome.re/badge.svg)&nbsp; 11ty / Build Awesome <small>[<i>↗</i>](https://github.com/anydigital/awesome-11ty-build-awesome)</small> {#awesome}
-  - section: content
+      ## Appendix
+      ### [🥷 Nunjucks tricks →](/html/#njk){role=button .outline}
+      ### [🥷 Liquid tricks →](/html/#liquid){role=button .outline}
+      ---
+  - path: build-awesome-11ty/_starters.md
+  - section: index
     path: https://raw.githubusercontent.com/anydigital/awesome-11ty-build-awesome/refs/heads/master/README.md
   - text: |-
       Featured by:

@@ -1,9 +1,9 @@
-## Nunjucks <small>Tricks</small> {#njk}
+### Nunjucks <small>tricks</small> {#njk}
 
 - https://mozilla.github.io/nunjucks/templating.html
 - https://mozilla.github.io/nunjucks/templating.html#builtin-filters
 
-### Syntax highlighting <sub>in [VS Code~editors](/tricks/antigravity/)</sub> {#njk-vscode}
+##### Syntax highlighting <sub>in [VS Code~editors](/tricks/antigravity/)</sub> {#njk-vscode}
 
 - 🧩 Install https://github.com/edheltzel/better-nunjucks-for-visual-studio-code
 
@@ -13,7 +13,7 @@ This is a modern fork of the original extension. It is specifically designed to 
 
 **No Config:** It works out of the box without needing to manually map file associations in your settings.
 
-### Auto-formatting <sub>in [VS Code~editors](/tricks/antigravity/)</sub>
+##### Auto-formatting <sub>in [VS Code~editors](/tricks/antigravity/)</sub>
 
 1. 🧩 Install https://github.com/prettier/prettier-vscode (if not yet)
 
@@ -45,7 +45,7 @@ npm i -D prettier-plugin-jinja-template
 ln -s ./node_modules/@anydigital/blades/.prettierrc.json
 ```
 
-### Sort array by attribute
+##### Sort array by attribute
 
 Per official `.njk` documentation:
 
@@ -60,7 +60,7 @@ But you can actually do this trick:
 {% endfor %}
 ```
 
-### Include and render `.md` file w/o its Front Matter <sub>in `11ty`</sub>
+##### Include and render `.md` file w/o its Front Matter <sub>in `11ty`</sub>
 
 ```jinja2 {data-caption=.njk}
 {# first, get the raw content using `html` as plain-text engine #}

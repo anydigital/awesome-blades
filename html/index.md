@@ -1,4 +1,5 @@
 ---
+permalink: /html/
 title: HTML <small>blades</small> <sub>for 11ty/Build Awesome, Jekyll, etc.</sub>
 includes:
   - text: "## Install"
@@ -19,4 +20,13 @@ includes:
     path: https://raw.githubusercontent.com/anydigital/blades/refs/heads/main/_includes/blades/gtm.njk
   - section: docs,code
     path: https://raw.githubusercontent.com/anydigital/blades/refs/heads/main/_includes/blades/gtm.liquid
+
+  - text: "## Appendix"
+  - path: html/_njk.md
+  - path: html/_liquid.md
+
+  - text: |-
+      Featured by:
+      - https://11tybundle.dev/blog/11ty-bundle-83/
+      - https://github.com/anydigital/awesome-11ty-build-awesome
 ---
