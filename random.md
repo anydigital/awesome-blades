@@ -3,7 +3,58 @@ title: Random <small>tricks</small>
 canonical: https://blades.ninja/random/
 ---
 
-## Run Ruby projects locally on macOS <sub>without breaking system's Ruby</sub>
+## Google Sheets
+
+|                       |                 |
+| --------------------- | --------------- |
+| <code>Ctrl + `</code> | toggle formulas |
+
+---
+
+## Google Chrome
+
+### chrome://settings/syncSetup/advanced
+
+Customize sync:
+
+- History OFF
+- Tabs OFF
+- Pwds OFF
+- Addresses OFF
+- Payments OFF
+
+Rely on Password Manager better.
+
+---
+
+## Terminal
+
+### Check HTTP headers with `curl`
+
+```sh
+curl --head HTTP_URL
+
+# or simply:
+curl -I HTTP_URL
+```
+
+The `-I` flag (shorthand for `--head`) fetches only the HTTP headers from a server. This is the fastest way to inspect status codes, content types, and server metadata without downloading the actual page content.
+
+---
+
+## Regular Expressions {#regex}
+
+Find all lines ending with `**`:
+
+```
+\*\*$\n
+```
+
+---
+
+## Ruby
+
+Run Ruby projects locally on macOS without breaking system's Ruby:
 
 ### Install `rbenv` {#rbenv}
 
@@ -56,3 +107,15 @@ bundle exec middleman build
 > While older documentation mentions Ruby 2.6 or 2.7, Slate officially dropped support for Ruby 2.5 and added formal support for Ruby 3.1 in its 2022 releases. Newer versions of Ruby (3.2+) can sometimes cause dependency conflicts with Slate's core engine, middleman, specifically regarding the nokogiri gem.
 
 More info: https://github.com/slatedocs/slate/wiki/Using-Slate-Natively#installing-dependencies-on-macos
+
+---
+
+## Discord
+
+### How to Link a Channel Across Different Servers (Advanced)
+
+To link a channel from Server A into a message in Server B, you need the Channel ID:
+
+1. Enable Developer Mode: Go to User Settings > Advanced and toggle on Developer Mode.
+2. Copy ID: Right-click the channel name (or long-press on mobile) and select Copy Channel ID.
+3. Use this Syntax: In your message, type `<#CHANNEL_ID>` (replacing CHANNEL_ID with the numbers you copied).
