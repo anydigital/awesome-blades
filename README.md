@@ -34,4 +34,11 @@ Awesome tools, tricks and ideas for Blades:
 - https://blog.jim-nielsen.com/2025/lots-of-little-html-pages/
 - https://micah.torcellini.org/2026/03/17/simple-timeline/
 
+Awesome semantic HTML / class-light CSS:
+
+- https://github.com/picocss/pico
+- https://github.com/kevquirk/simple.css
+- https://github.com/dbohdan/classless-css
+- https://github.com/dohliam/dropin-minimal-css
+
 <!--{.columns}-->
