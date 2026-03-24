@@ -15,6 +15,10 @@ includes:
   - section: docs,code
     path: https://raw.githubusercontent.com/anydigital/blades/refs/heads/main/_includes/blades/links.liquid
 
+  - text: |-
+      ## Sitemap
+      https://github.com/anydigital/blades/blob/main/_includes/blades/sitemap.xml.njk
+
   - text: "## Google Tag Manager (GTM) {#gtm}"
   - section: docs,code
     path: https://raw.githubusercontent.com/anydigital/blades/refs/heads/main/_includes/blades/gtm.njk
