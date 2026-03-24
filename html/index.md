@@ -32,5 +32,6 @@ includes:
   - text: |-
       Featured by:
       - https://11tybundle.dev/blog/11ty-bundle-83/
+      - https://11tybundle.dev/categories/nunjucks-macros/
       - https://github.com/anydigital/awesome-11ty-build-awesome
 ---
