@@ -9,4 +9,5 @@ includes:
     path: https://raw.githubusercontent.com/anydigital/eleventy-blades/refs/heads/main/src/processors/autoLinkFavicons.js
   - section: docs
     path: https://raw.githubusercontent.com/anydigital/eleventy-blades/refs/heads/main/src/processors/markdown.js
+revised: 2026-03-25
 ---
