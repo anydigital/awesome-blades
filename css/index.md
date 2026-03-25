@@ -32,4 +32,8 @@ includes:
     path: https://raw.githubusercontent.com/anydigital/blades/refs/heads/main/src/_utilities.css
   - section: docs
     path: https://raw.githubusercontent.com/anydigital/blades/refs/heads/main/src/_unreduce-motion.css
+
+  - text: "## Theme <small>(optional)</small>"
+  - section: code
+    path: https://github.com/anydigital/blades/blob/main/src/blades.theme.css
 ---
