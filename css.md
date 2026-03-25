@@ -4,8 +4,10 @@ includes:
   - text: "## Install"
   - section: install-css
     path: https://raw.githubusercontent.com/anydigital/blades/refs/heads/main/README.md
-  - text: "## Table"
-  - text: "### [🥷 Responsive table without wrapper →](/css/responsive-table/){role=button .outline}"
+  - text: |-
+      ## Table
+      ### [🥷 Responsive table without wrapper →](/css/responsive-table/){role=button .outline}
+      ---
   - section: docs
     path: https://raw.githubusercontent.com/anydigital/blades/refs/heads/main/src/_table.css
 
