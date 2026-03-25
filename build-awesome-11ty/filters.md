@@ -31,4 +31,5 @@ includes:
     path: https://raw.githubusercontent.com/anydigital/eleventy-blades/refs/heads/main/src/filters/strip_tag.js
   - section: docs,code
     path: https://raw.githubusercontent.com/anydigital/eleventy-blades/refs/heads/main/src/filters/unindent.js
+revised: 2026-03-24
 ---
