@@ -9,20 +9,18 @@
 <!--section:gh-only-->
 
 Blades docs:
-
 - https://blades.ninja/ index
 - https://blades.ninja/css/
 - https://blades.ninja/html/
 - https://blades.ninja/build-awesome-11ty/
 
+Backlog:
+- https://blades.ninja/css/float-label/
+
 <!--section:index-->
 
-Awesome tools, tricks and ideas for Blades:
-
-<!-- blades.ninja pages are simply sorted -->
-
+Awesome tools and tricks used in Blades: <!--sorted A-Z-->
 - https://blades.ninja/antigravity/ tricks
-- https://blades.ninja/css/float-label/ blade
 - https://blades.ninja/git/ tricks
 - https://blades.ninja/jsdelivr/ tricks
 - https://blades.ninja/md/ tricks
@@ -30,19 +28,5 @@ Awesome tools, tricks and ideas for Blades:
 - https://blades.ninja/npm/ tricks
 - https://blades.ninja/random/ tricks
 - https://blades.ninja/symbols/
-- https://blog.jim-nielsen.com/2025/lots-of-little-html-pages/
-- https://micah.torcellini.org/2026/03/17/simple-timeline/
-- https://kittygiraudel.com/2026/03/21/heading-anchors-with-11ty/
-
-<!--{.columns}-->
-
-Awesome semantic HTML / class-light CSS:
-
-- https://github.com/picocss/pico
-- https://github.com/kevquirk/simple.css
-- https://github.com/dbohdan/classless-css
-- https://github.com/dohliam/dropin-minimal-css
-- https://github.com/troxler/awesome-css-frameworks
-- https://buildexcellentwebsit.es/
 
 <!--{.columns}-->
