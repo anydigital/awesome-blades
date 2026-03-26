@@ -1,4 +1,4 @@
-/11ty/              /build-awesome-11ty/ 301
+/11ty/              /build-awesome-11ty/:splat 301
 
 /liquid/            /html/#liquid 301
 /html/links/        /html/#links 301
