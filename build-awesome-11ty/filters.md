@@ -1,6 +1,6 @@
 ---
 title: <a href="/build-awesome-11ty/"><sup>Build Awesome /</sup> Eleventy</a> Filters
-description: A collection of useful Eleventy filters for Nunjucks/Liquid via Eleventy Blades plugin.
+summary: A collection of useful Eleventy filters for Nunjucks/Liquid via Eleventy Blades plugin.
 includes:
   - text: "### Install"
   - section: install

@@ -1,7 +1,7 @@
 ---
 permalink: /build-awesome-11ty/
 title: <sup>Build Awesome /</sup> Eleventy blades
-description: A curated collection of Eleventy (11ty) tricks, starters, command line tips, configuration snippets, and templating techniques.
+summary: A curated collection of Eleventy (11ty) tricks, starters, command line tips, configuration snippets, and templating techniques.
 canonical: https://blades.ninja/build-awesome-11ty/
 includes:
   - text: "## Install"
