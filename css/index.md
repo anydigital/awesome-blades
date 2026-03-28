@@ -48,4 +48,5 @@ includes:
       - https://github.com/troxler/awesome-css-frameworks
       - https://kittygiraudel.com/2026/03/21/heading-anchors-with-11ty/
       - https://micah.torcellini.org/2026/03/17/simple-timeline/
+      - https://blog.frankmtaylor.com/2026/03/05/you-dont-know-html-tables/
 ---
