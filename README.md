@@ -1,4 +1,4 @@
-<img src="https://awesome.re/badge.svg">
+![](https://awesome.re/badge.svg)
 <!--section:index-->
 
 ## <sup>Explore</sup><br> Awesome blades <small>[<i>↗</i>](https://github.com/anydigital/awesome-blades)</small> <!--{#awesome}-->
