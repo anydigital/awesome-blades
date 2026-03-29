@@ -8,11 +8,13 @@ gtm_id: GTM-WNHMRQZ
 brand: <big><a href="/" class="dark-auto"><i>🥷</i> Blades</a></big>
 header_links:
   - url: https://blades.ninja/css/
-    title: Docs
+    title: <i class="fa-brands fa-css"></i>
+  - url: https://blades.ninja/html/
+    title: <i class="fa-brands fa-code"></i>
+  - url: https://blades.ninja/build-awesome-11ty/
+    title: <i class="fa-brands fa-eleventy"></i>
   - url: https://github.com/anydigital/blades
     title: <i class="fa-brands fa-github"></i>
-  - url: https://github.com/anydigital/eleventy-blades
-    title: <i class="fa-brands fa-eleventy"></i>
 #TODO tricks
 footer_content: |
   &nbsp;&nbsp;
