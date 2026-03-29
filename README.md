@@ -11,10 +11,10 @@ Blades docs:
 - https://blades.ninja/html/
 - https://blades.ninja/11ty/
 
+<!--section:index-->
+
 Backlog:
 - https://blades.ninja/css/float-label/
-
-<!--section:index-->
 
 Awesome tools and tricks used in Blades: <!--sorted A-Z-->
 - https://blades.ninja/antigravity/ tricks
