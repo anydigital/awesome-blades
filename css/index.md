@@ -1,5 +1,8 @@
 ---
 permalink: /css/
+eleventyNavigation:
+  key: CSS <i class="fa-brands fa-css3-alt"></i>
+  order: 1
 title: <sup>Class-light</sup> CSS blades <sub>inspired by Pico.css</sub>
 includes:
   - text: "## Install"
