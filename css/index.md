@@ -22,7 +22,10 @@ includes:
   - text: |-
       ---
       ## Content
-      ### 🥷 Link [fav]icons
+  - section: docs-intro
+    path: https://raw.githubusercontent.com/anydigital/blades/refs/heads/main/src/_typography.css
+  - section: docs-intro
+  - text: "### 🥷 Link [fav]icons"
   - section: summary
     path: https://raw.githubusercontent.com/anydigital/blades/refs/heads/main/src/link-icon.css
   - text: "[Demo & Docs →](/css/link-icon/){role=button .outline}"
