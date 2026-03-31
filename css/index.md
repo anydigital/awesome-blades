@@ -8,7 +8,6 @@ includes:
   - text: "## Install"
   - section: install-css
     path: https://raw.githubusercontent.com/anydigital/blades/refs/heads/main/README.md
-
   - text: |-
       ---
       ## Layout
@@ -16,11 +15,10 @@ includes:
     path: https://raw.githubusercontent.com/anydigital/blades/refs/heads/main/src/_layout.css
   - text: "### 🥷 Breakout elements"
   - section: summary
-    path: https://raw.githubusercontent.com/anydigital/blades/refs/heads/main/src/link-icon.css
+    path: https://raw.githubusercontent.com/anydigital/blades/refs/heads/main/src/breakout.css
   - text: "[Demo & Docs →](/css/breakout/){role=button .outline}"
   - section: docs
     path: https://raw.githubusercontent.com/anydigital/blades/refs/heads/main/src/_layout.css
-
   - text: |-
       ---
       ## Content
@@ -32,7 +30,6 @@ includes:
     path: https://raw.githubusercontent.com/anydigital/blades/refs/heads/main/src/_typography.css
   - section: docs
     path: https://raw.githubusercontent.com/anydigital/blades/refs/heads/main/src/_code.css
-
   - text: |-
       ---
       ## Table
@@ -42,7 +39,6 @@ includes:
   - text: "[Demo & Docs →](/css/responsive-table/){role=button .outline}"
   - section: docs
     path: https://raw.githubusercontent.com/anydigital/blades/refs/heads/main/src/_table.css
-
   - text: |-
       ---
       ## Utilities
@@ -50,13 +46,11 @@ includes:
     path: https://raw.githubusercontent.com/anydigital/blades/refs/heads/main/src/_utilities.css
   - section: docs
     path: https://raw.githubusercontent.com/anydigital/blades/refs/heads/main/src/_unreduce-motion.css
-
   - text: |-
       ---
       ## Theme <small>(optional)</small>
   - section: code
     path: https://raw.githubusercontent.com/anydigital/blades/refs/heads/main/src/blades.theme.css
-
   - text: |-
       ---
       See also:

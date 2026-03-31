@@ -21,10 +21,13 @@ eleventyComputed:
 includes:
   - section: index
     path: https://raw.githubusercontent.com/anydigital/blades/refs/heads/main/README.md
+  - text: ---
   - section: index
     path: https://raw.githubusercontent.com/anydigital/eleventy-blades/refs/heads/main/README.md
+  - text: ---
   - section: appendix
     path: https://raw.githubusercontent.com/anydigital/blades/refs/heads/main/README.md
+  - text: ---
   - path: README.md
     section: index
 ---

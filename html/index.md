@@ -8,30 +8,35 @@ includes:
   - text: "## Install"
   - section: install-html
     path: https://raw.githubusercontent.com/anydigital/blades/refs/heads/main/README.md
-  - text: "## Base HTML {#base}"
+  - text: |-
+      ---
+      ## Base HTML {#base}
   - section: docs,code
     path: https://raw.githubusercontent.com/anydigital/blades/refs/heads/main/_includes/blades/html.njk
   - section: docs,code
     path: https://raw.githubusercontent.com/anydigital/blades/refs/heads/main/_includes/blades/html.liquid
-
-  - text: "## Links"
+  - text: |-
+      ---
+      ## Links
   - section: docs,code
     path: https://raw.githubusercontent.com/anydigital/blades/refs/heads/main/_includes/blades/links.liquid
-
   - text: |-
-      ## Sitemap
+      ---
+      ## Sitemap 🆕
       https://github.com/anydigital/blades/blob/main/_includes/blades/sitemap.xml.njk
-
-  - text: "## Google Tag Manager (GTM) {#gtm}"
+  - text: |-
+      ---
+      ## Google Tag Manager (GTM) {#gtm}
   - section: docs,code
     path: https://raw.githubusercontent.com/anydigital/blades/refs/heads/main/_includes/blades/gtm.njk
   - section: docs,code
     path: https://raw.githubusercontent.com/anydigital/blades/refs/heads/main/_includes/blades/gtm.liquid
-
+  - text: ---
   - path: html/_njk.md
+  - text: ---
   - path: html/_liquid.md
-
   - text: |-
+      ---
       - Featured by:
         - https://11tybundle.dev/blog/11ty-bundle-83/
         - https://11tybundle.dev/categories/nunjucks-macros/

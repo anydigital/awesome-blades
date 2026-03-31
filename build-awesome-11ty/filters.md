@@ -5,6 +5,7 @@ includes:
   - text: "### Install"
   - section: install
     path: https://raw.githubusercontent.com/anydigital/eleventy-blades/refs/heads/main/README.md
+  - text: ---
   - section: docs,code
     path: https://raw.githubusercontent.com/anydigital/eleventy-blades/refs/heads/main/src/filters/attr_concat.js
   - section: docs,code
