@@ -17,7 +17,9 @@ includes:
   - section: toc
     path: https://raw.githubusercontent.com/anydigital/eleventy-blades/refs/heads/main/README.md
 
-  - text: "## [Templating](/html/)"
+  - text: |-
+      ## [Templating](/html/)
+      <!--https://bsky.app/profile/any.digital/post/3mdjvepwr7k2w-->{#njk-vscode}
   - section: toc
     path: https://blades.ninja/html/
 
