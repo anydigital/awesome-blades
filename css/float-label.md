@@ -54,7 +54,7 @@ includes:
     # path: ../../float-label-css/README.md
   - text: |-
       ---
-      ## <sup>PS:</sup> How it works
-  - section: code
+      ## How it works {#how}
+  - section: docs
     path: https://raw.githubusercontent.com/anydigital/blades/refs/heads/main/src/float-label.core.css
 ---
