@@ -1,5 +1,8 @@
 ---
 permalink: /css/
+eleventyNavigation:
+  key: CSS
+  order: 1
 title: <sup>Class-light</sup> CSS blades <sub>inspired by Pico.css</sub>
 includes:
   - text: "## Install"
