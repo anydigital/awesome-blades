@@ -1,8 +1,5 @@
 ---
 permalink: /html/
-eleventyNavigation:
-  key: HTML <i class="fa-brands fa-html5"></i>
-  order: 2
 title: <sup>Nunjucks / Liquid</sup> HTML blades <sub>for 11ty/Build Awesome, Jekyll, etc.</sub>
 includes:
   - text: "## Install"

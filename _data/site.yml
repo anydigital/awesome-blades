@@ -7,6 +7,12 @@ author:
 gtm_id: GTM-WNHMRQZ
 brand: <big><a href="/" class="dark-auto"><i>🥷</i> Blades</a></big>
 header_links:
+  - url: /css/
+    title: All CSS
+  - url: /html/
+    title: <i class="fa-solid fa-code"></i>
+  - url: /build-awesome-11ty/
+    title: <i class="fa-brands fa-eleventy"></i>
   - url: https://github.com/anydigital/blades
     title: <i class="fa-brands fa-github"></i>
 #TODO tricks

@@ -1,8 +1,5 @@
 ---
 permalink: /build-awesome-11ty/
-eleventyNavigation:
-  key: <i class="fa-brands fa-eleventy"></i>
-  order: 3
 title: <sup>Build Awesome /</sup> Eleventy blades
 summary: |-
   Ultimate blade kit for 11ty (Build Awesome).  

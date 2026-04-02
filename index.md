@@ -12,6 +12,7 @@ site:
       }
 eleventyComputed:
   hero: |-
+    <br>
     {% liquid
       #TODO as trick
       # assign _ = '../node_modules/@anydigital/blades/README.md'

@@ -1,8 +1,5 @@
 ---
 permalink: /css/
-eleventyNavigation:
-  key: CSS <i class="fa-brands fa-css3-alt"></i>
-  order: 1
 title: <sup>Class-light</sup> CSS blades <sub>inspired by Pico.css</sub>
 includes:
   - text: "## Install"
@@ -42,6 +39,13 @@ includes:
   - text: "[Demo & Docs →](/css/responsive-table/){role=button .outline}"
   - section: docs
     path: https://raw.githubusercontent.com/anydigital/blades/refs/heads/main/src/_table.css
+  - text: |-
+      ---
+      ## Forms
+      ### 🥷 Float label without CSS classes
+  - section: summary
+    path: https://raw.githubusercontent.com/anydigital/float-label-css/refs/heads/master/README.md
+  - text: "[Demo & Docs →](/css/float-label/){role=button .outline}"
   - text: |-
       ---
       ## Utilities

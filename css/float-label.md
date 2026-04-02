@@ -1,4 +1,7 @@
 ---
+eleventyNavigation:
+  key: <i class="fa-solid fa-picture-in-picture fa-flip-both"></i> Label
+  order: 2
 title: <a href="/css/">CSS</a> Float Label
 eleventyComputed:
   summary: |-
