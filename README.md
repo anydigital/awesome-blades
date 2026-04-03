@@ -20,7 +20,7 @@ Blades docs:
 
 - Hidden built-ins:
   - https://blades.ninja/html/ templates
-  - https://blades.ninja/html/#jekyll theme
+  - https://blades.ninja/jekyll/ theme
 - Eleventy blades:
   - https://blades.ninja/11ty/
   - https://blades.ninja/11ty/filters/
