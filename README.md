@@ -8,13 +8,17 @@
 Blades docs:
 - https://blades.ninja/ index
 - https://blades.ninja/css/
+- https://blades.ninja/css/breakout/
+- https://blades.ninja/css/float-label/
+- https://blades.ninja/css/link-icon/
+- https://blades.ninja/css/responsive-table/
 - https://blades.ninja/html/
 - https://blades.ninja/11ty/
+- https://blades.ninja/11ty/filters/
+- https://blades.ninja/11ty/processors/
+- https://blades.ninja/11ty/tools/
 
 <!--section:index-->
-
-Backlog:
-- https://blades.ninja/css/float-label/
 
 Awesome tools and tricks used in Blades: <!--sorted A-Z-->
 - https://blades.ninja/antigravity/ tricks
