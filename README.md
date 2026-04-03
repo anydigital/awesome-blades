@@ -24,7 +24,7 @@
   - https://blades.ninja/11ty/filters/
   - https://blades.ninja/11ty/processors/
   - https://blades.ninja/11ty/tools/
-- Awesome tools and tricks used in Blades: <!--sorted A-Z-->
+- Awesome tools and tricks used in Blades:
   - https://blades.ninja/antigravity/ tricks
   - https://blades.ninja/git/ tricks
   - https://blades.ninja/jsdelivr/ tricks
@@ -33,6 +33,6 @@
   - https://blades.ninja/npm/ tricks
   - https://blades.ninja/random/ tricks
   - https://blades.ninja/symbols/
-  - https://github.com/topics/blades-css
 
 <!--{.unlist .columns}-->
+<!-- Sublists sorted A-Z -->
