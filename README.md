@@ -2,7 +2,7 @@
 
 <!--section:index-->
 
-## <sup>Explore more</sup><br> Awesome blades <small>[<i>↗</i>](https://github.com/anydigital/awesome-blades)</small> <!--{#awesome}-->
+## <sup>Explore</sup><br> Awesome blades <small>[<i>↗</i>](https://github.com/anydigital/awesome-blades)</small> <!--{#awesome}-->
 
 <!--section:gh-only-->
 
